@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="justify">
-To.do is an academic demonstration of a personal calendar web application made with JavaScript, ReactJS, TipeScript, and SASS. Credits for Chapter 1 module of the ReactJS track - Ignite from rocketseat.
+To.do is an academic demonstration of a personal calendar web application made with JavaScript, ReactJS, TypeScript, and SASS. Credits for Chapter 1 module of the ReactJS track - Ignite from rocketseat.
 </h3>
 
 <br>
