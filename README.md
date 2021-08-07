@@ -22,7 +22,7 @@ This project was developed with the following technologies:
 
 - JavaScript
 - ReactJS
-- TipeScript
+- TypeScript
 - SASS
 
 <br>
